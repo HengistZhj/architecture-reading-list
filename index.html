@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Architecture Reading List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div>
+      <p class="eyebrow">ARCHITECTURE KNOWLEDGE BASE</p>
+      <h1>Reading List</h1>
+      <p class="intro">A living reading archive for architecture, representation, site analysis, theory and technology.</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search title, author or topic…">
+      <select id="category"><option value="">All categories</option></select>
+      <select id="listType">
+        <option value="">Primary + Supplementary</option>
+        <option>Primary</option>
+        <option>Supplementary</option>
+      </select>
+      <select id="status">
+        <option value="">All statuses</option>
+        <option>Not started</option>
+        <option>Reading</option>
+        <option>Finished</option>
+        <option>Reference</option>
+      </select>
+    </section>
+
+    <div class="meta"><span id="count"></span></div>
+    <section id="books" class="grid"></section>
+  </main>
+
+<script>
+let allBooks = [];
+
+function stars(n){ return "★".repeat(n) + "☆".repeat(5-n); }
+
+function render(){
+  const q = document.querySelector("#search").value.toLowerCase();
+  const cat = document.querySelector("#category").value;
+  const list = document.querySelector("#listType").value;
+  const status = document.querySelector("#status").value;
+
+  const filtered = allBooks.filter(b =>
+    (!q || [b.title,b.authors,b.category,b.notes].join(" ").toLowerCase().includes(q)) &&
+    (!cat || b.category === cat) &&
+    (!list || b.list === list) &&
+    (!status || b.status === status)
+  );
+
+  document.querySelector("#count").textContent = `${filtered.length} item${filtered.length === 1 ? "" : "s"}`;
+  document.querySelector("#books").innerHTML = filtered.map(b => `
+    <article class="card">
+      <div class="tags">
+        <span>${b.category}</span>
+        <span>${b.list}</span>
+      </div>
+      <h2>${b.title}</h2>
+      <p class="author">${b.authors} · ${b.year}</p>
+      <p class="notes">${b.notes || ""}</p>
+      <div class="bottom">
+        <span class="priority" title="Priority">${stars(b.priority)}</span>
+        <span class="status">${b.status}</span>
+      </div>
+      ${b.url ? `<a class="link" href="${b.url}" target="_blank" rel="noopener">Library / source ↗</a>` : ""}
+    </article>
+  `).join("");
+}
+
+fetch("books.json")
+  .then(r => r.json())
+  .then(data => {
+    allBooks = data;
+    const cats = [...new Set(data.map(b => b.category))].sort();
+    document.querySelector("#category").innerHTML += cats.map(c => `<option>${c}</option>`).join("");
+    render();
+  });
+
+["search","category","listType","status"].forEach(id =>
+  document.querySelector(`#${id}`).addEventListener("input", render)
+);
+</script>
+</body>
+</html>
