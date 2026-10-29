@@ -8,8 +8,55 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Core reference for form, space, circulation, proportion and spatial organisation.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tArchitecture%3A+form%2C+space%2C+%26+order/tarchitecture+form+space+and+order/1,1,5,B/frameset&FF=tarchitecture+form+space+and+order&5,,5/indexsort=-?save=b5931188"
+    "notes": "Core reference for form, space, circulation, proportion and spatial organisation; course resources: ARCH10003, ARCH20004.",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tArchitecture%3A+form%2C+space%2C+%26+order/tarchitecture+form+space+and+order/1,1,5,B/frameset&FF=tarchitecture+form+space+and+order&5,,5/indexsort=-?save=b5931188",
+    "courses": [
+      "ARCH10003",
+      "ARCH20004"
+    ],
+    "topics": [
+      "建筑形式与空间",
+      "设计基础",
+      "建筑形式",
+      "空间组织",
+      "图解"
+    ],
+    "reference_links": [
+      "https://www.wiley.com/en-gb/architecture-form-space-and-order-4th-edition-p-9781118745199",
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-293588e8d1",
+        "title": "Architecture: Form, Space, & Order",
+        "authors": [
+          "Francis D. K. Ching"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      },
+      {
+        "resource_id": "R-481478229c",
+        "title": "Architecture: Form, Space, and Order",
+        "authors": [
+          "Francis D. K. Ching"
+        ],
+        "year": 1996,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Architectural Graphics",
@@ -20,8 +67,206 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Plans, sections, elevations, axonometric, perspective and linework.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/taRCHITECTURAL+GRAPHICS/tarchitectural+graphics/1,1,10,B/frameset&FF=tarchitectural+graphics&9,,10/indexsort=-?save=b4292157"
+    "notes": "Plans, sections, elevations, axonometric, perspective and linework; course resources: ARCH10003 (6 assigned chapter entries; see course_readings).",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/taRCHITECTURAL+GRAPHICS/tarchitectural+graphics/1,1,10,B/frameset&FF=tarchitectural+graphics&9,,10/indexsort=-?save=b4292157",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "建筑表达",
+      "建筑制图",
+      "平立剖与表达"
+    ],
+    "reference_links": [
+      "https://cat2.lib.unimelb.edu.au/search~S30?%2FtaRCHITECTURAL+GRAPHICS%2Ftarchitectural+graphics%2F1%2C1%2C10%2CB%2Fframeset=&FF=tarchitectural+graphics&9%2C%2C10%2Findexsort=-%3Fsave%3Db4292157",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=f8512f90-b91f-45fb-8602-17c294f6db04",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=8198e7ec-6fb4-4034-a8d0-254d54961cf1",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=a154022c-c708-4ffc-96fc-bab49a3db66b",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=9384a4d3-cf50-4da8-8a43-7ba1af3f3721",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=a22ea228-ce96-4fb3-b24f-ec335d50209f",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e0f9e7de-aa14-496a-a6b4-14ee1bdb676d"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-b4e2596dc2",
+        "title": "Architectural Graphics",
+        "authors": [
+          "Francis D. K. Ching"
+        ],
+        "year": 2009,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ],
+    "course_readings": [
+      {
+        "resource_id": "R-d35f9f2a5f",
+        "title": "Defining the Plan Cut, Poche and Spatial Depth, Doors and Windows, Stairs, Ceiling Plans, Site Plan Drawings",
+        "authors": [
+          "Ching, Francis D. K."
+        ],
+        "year": 1970,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D. K., in Architectural Graphics, Architectural Press, 1970, 42 - 45, 48, 53",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=f8512f90-b91f-45fb-8602-17c294f6db04"
+      },
+      {
+        "resource_id": "R-92a048673b",
+        "title": "Defining the Section Cut",
+        "authors": [
+          "Ching, Francis D. K."
+        ],
+        "year": 1970,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D. K., in Architectural Graphics, Architectural Press, 1970, 58 -",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=8198e7ec-6fb4-4034-a8d0-254d54961cf1"
+      },
+      {
+        "resource_id": "R-418002e052",
+        "title": "Drawing Lines",
+        "authors": [
+          "Ching, Francis D. K"
+        ],
+        "year": 1975,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D. K, in Architectural Graphics, New York, Wiley, 1975, 14 - 17",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=a154022c-c708-4ffc-96fc-bab49a3db66b"
+      },
+      {
+        "resource_id": "R-84df2595d2",
+        "title": "Lettering",
+        "authors": [
+          "Ching, Francis D.K"
+        ],
+        "year": 1975,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D.K, in Architectural Graphics, Wiley, 1975, 148 -",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=9384a4d3-cf50-4da8-8a43-7ba1af3f3721"
+      },
+      {
+        "resource_id": "R-7126d1278d",
+        "title": "Representing Materials",
+        "authors": [
+          "Ching, Francis D. K."
+        ],
+        "year": 1970,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D. K., in Architectural Graphics, Architectural Press, 1970, 58 -",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=a22ea228-ce96-4fb3-b24f-ec335d50209f"
+      },
+      {
+        "resource_id": "R-c33db3899c",
+        "title": "Shade and Shadows",
+        "authors": [
+          "Ching, Francis D. K."
+        ],
+        "year": 1970,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "周页章节阅读"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-09",
+            "label": "周页章节阅读"
+          }
+        ],
+        "citation": "Ching, Francis D. K., in Architectural Graphics, Architectural Press, 1970, 148 - 149",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e0f9e7de-aa14-496a-a6b4-14ee1bdb676d"
+      }
+    ]
   },
   {
     "title": "Landscape Graphics",
@@ -32,8 +277,35 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Landscape drawing, site graphics, annotation and vegetation representation.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/XLandscape+Graphics&searchscope=30&SORT=D/XLandscape+Graphics&searchscope=30&SORT=D&extended=0&SUBKEY=Landscape+Graphics/1,136,136,B/frameset&FF=XLandscape+Graphics&searchscope=30&SORT=D&1,1,?save=b7572662"
+    "notes": "Landscape drawing, site graphics, annotation and vegetation representation; course resources: ARCH10003.",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/XLandscape+Graphics&searchscope=30&SORT=D/XLandscape+Graphics&searchscope=30&SORT=D&extended=0&SUBKEY=Landscape+Graphics/1,136,136,B/frameset&FF=XLandscape+Graphics&searchscope=30&SORT=D&1,1,?save=b7572662",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "场地分析",
+      "景观表达"
+    ],
+    "reference_links": [
+      "https://cat2.lib.unimelb.edu.au/search~S30?%2FXLandscape+Graphics=&searchscope=30&SORT=D%2FXLandscape+Graphics&searchscope=30&SORT=D&extended=0&SUBKEY=Landscape+Graphics%2F1%2C136%2C136%2CB%2Fframeset&FF=XLandscape+Graphics&searchscope=30&SORT=D&1%2C1%2C%3Fsave=b7572662"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-161e27cf85",
+        "title": "Landscape Graphics",
+        "authors": [
+          "G. Reid"
+        ],
+        "year": 2002,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Metric Handbook: Planning and Design Data",
@@ -44,8 +316,35 @@
     "priority": 4,
     "status": "Reference",
     "type": "Reference",
-    "notes": "Planning standards, dimensions and design data.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tMetric+handbook%3A+planning+and+design+data/tmetric+handbook+planning+and+design+data/1,1,10,B/frameset&FF=tmetric+handbook+planning+and+design+data&3,,10/indexsort=-?save=b4341995"
+    "notes": "Planning standards, dimensions and design data; course resources: ARCH10003.",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tMetric+handbook%3A+planning+and+design+data/tmetric+handbook+planning+and+design+data/1,1,10,B/frameset&FF=tmetric+handbook+planning+and+design+data&3,,10/indexsort=-?save=b4341995",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "尺度与人体工学",
+      "设计数据"
+    ],
+    "reference_links": [
+      "https://cat2.lib.unimelb.edu.au/search~S30?%2FtMetric+handbook%3A+planning+and+design+data%2Ftmetric+handbook+planning+and+design+data%2F1%2C1%2C10%2CB%2Fframeset=&FF=tmetric+handbook+planning+and+design+data&3%2C%2C10%2Findexsort=-%3Fsave%3Db4341995"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-3747f3984a",
+        "title": "Metric Handbook: Planning and Design Data",
+        "authors": [
+          "P. Buxton（编）"
+        ],
+        "year": 2015,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Tools for Ideas: Introduction to Architectural Design",
@@ -56,8 +355,35 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Design process, architectural thinking and tools for developing ideas.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/t+Tools+for+ideas%3A+Introduction+to+Architectural+Design/ttools+for+ideas+introduction+to+architectural+design/1,1,3,B/frameset&FF=ttools+for+ideas+introduction+to+architectural+design&3,,3/indexsort=-?save=b7995128"
+    "notes": "Design process, architectural thinking and tools for developing ideas; course resources: ARCH10003.",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/t+Tools+for+ideas%3A+Introduction+to+Architectural+Design/ttools+for+ideas+introduction+to+architectural+design/1,1,3,B/frameset&FF=ttools+for+ideas+introduction+to+architectural+design&3,,3/indexsort=-?save=b7995128",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "设计方法",
+      "设计工具"
+    ],
+    "reference_links": [
+      "https://cat2.lib.unimelb.edu.au/search~S30?%2Ft+Tools+for+ideas%3A+Introduction+to+Architectural+Design%2Fttools+for+ideas+introduction+to+architectural+design%2F1%2C1%2C3%2CB%2Fframeset=&FF=ttools+for+ideas+introduction+to+architectural+design&3%2C%2C3%2Findexsort=-%3Fsave%3Db7995128"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-09c2089574",
+        "title": "Tools for Ideas: Introduction to Architectural Design",
+        "authors": [
+          "Christian Gänshirt"
+        ],
+        "year": 2007,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Studio Craft & Technique for Architects",
@@ -68,8 +394,93 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Physical model making, studio techniques and architectural craft.",
-    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tSTUDIO+CRAFT+%26+TECHNIQUE+FOR+ARCHITECTS/tstudio+craft+and+technique+for+architects/1,1,1,B/frameset&FF=tstudio+craft+and+technique+for+architects&1,1,?save=b6332191"
+    "notes": "Physical model making, studio techniques and architectural craft; course resources: ARCH10003 (2 assigned chapter entries; see course_readings).",
+    "url": "https://cat2.lib.unimelb.edu.au/search~S30?/tSTUDIO+CRAFT+%26+TECHNIQUE+FOR+ARCHITECTS/tstudio+craft+and+technique+for+architects/1,1,1,B/frameset&FF=tstudio+craft+and+technique+for+architects&1,1,?save=b6332191",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "制图",
+      "模型制作",
+      "设计技法",
+      "建筑制图",
+      "平立剖与表达",
+      "透视"
+    ],
+    "reference_links": [
+      "https://catalogue.nli.ie/Record/vtls000727662",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=25b8b949-e0ba-4e49-bfc0-24f67981d248",
+      "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=3dc1289a-379a-4b99-9ce9-4477ba238142"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-8cd3c695f3",
+        "title": "Studio Craft & Technique for Architects",
+        "authors": [
+          "Miriam Delaney",
+          "Anne Gorman"
+        ],
+        "year": 2015,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ],
+    "course_readings": [
+      {
+        "resource_id": "R-a8f1435595",
+        "title": "Drawing Techniques",
+        "authors": [
+          "Delaney, Miriam; Gorman, Anne"
+        ],
+        "year": 2015,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "Further Reading / Further Learning（周页明确列出）"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "Further Reading / Further Learning（周页明确列出）"
+          }
+        ],
+        "citation": "Delaney, Miriam; Gorman, Anne, in Studio craft & technique for architects, by Delaney, Miriam,, Gorman, Anne,; Lappin, Sarah A., [New edition]., London :, Laurence King, 2015., 136 - 217",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=25b8b949-e0ba-4e49-bfc0-24f67981d248"
+      },
+      {
+        "resource_id": "R-6c39b2c905",
+        "title": "Interior One-Point Perspective",
+        "authors": [
+          "Delaney, Miriam; Gorman, Anne"
+        ],
+        "year": 2015,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-02",
+            "label": "Further Reading / Further Learning（周页明确列出）"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-03",
+            "label": "Further Reading / Further Learning（周页明确列出）"
+          },
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/week-07",
+            "label": "Further Reading / Further Learning（周页明确列出）"
+          }
+        ],
+        "citation": "Delaney, Miriam; Gorman, Anne, in Studio craft & technique for architects, by Delaney, Miriam,, [New edition]., London :, Laurence King, 2015., 118 - 135",
+        "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=3dc1289a-379a-4b99-9ce9-4477ba238142"
+      }
+    ]
   },
   {
     "title": "Architects’ Data",
@@ -80,8 +491,37 @@
     "priority": 5,
     "status": "Reference",
     "type": "Reference",
-    "notes": "Dimensions, ergonomics, building types and spatial standards.",
-    "url": ""
+    "notes": "Dimensions, ergonomics, building types and spatial standards; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "设计数据",
+      "尺度与人体工学"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-f23128673b",
+        "title": "Architects’ Data",
+        "authors": [
+          "E. Neufert",
+          "P. Neufert",
+          "J. Kister"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Architectural Diagrams",
@@ -92,8 +532,35 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Architectural diagrams, concept diagrams and analytical graphics.",
-    "url": ""
+    "notes": "Architectural diagrams, concept diagrams and analytical graphics; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "图解",
+      "设计沟通"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-e28a110f6e",
+        "title": "Architectural Diagrams（2011课程条目，卷次待核）",
+        "authors": [
+          "Miyoung Pyo（编）"
+        ],
+        "year": 2011,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Elements of Modern Architecture",
@@ -104,8 +571,37 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Modern architecture through architectural elements and precedent analysis.",
-    "url": ""
+    "notes": "Modern architecture through architectural elements and precedent analysis; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "建筑先例",
+      "现代建筑"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-7da74a6988",
+        "title": "The Elements of Modern Architecture",
+        "authors": [
+          "A. Radford",
+          "S. Morkoç",
+          "A. Srivastava"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Handbook of Tyranny",
@@ -116,8 +612,35 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Spatial control, borders, surveillance, regulation and critical mapping.",
-    "url": ""
+    "notes": "Spatial control, borders, surveillance, regulation and critical mapping; course resources: ARCH10003.",
+    "url": "https://www.lars-mueller-publishers.com/handbook-tyranny-0",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "空间政治",
+      "数据可视化"
+    ],
+    "reference_links": [
+      "https://www.lars-mueller-publishers.com/handbook-tyranny-0"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-8d6ba2b2d4",
+        "title": "Handbook of Tyranny",
+        "authors": [
+          "Theo Deutinger"
+        ],
+        "year": 2018,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Primary reading list（主书单，未标必读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Microclimatic Landscape Design",
@@ -128,8 +651,37 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Microclimate, thermal comfort, solar exposure, wind and landscape design.",
-    "url": ""
+    "notes": "Microclimate, thermal comfort, solar exposure, wind and landscape design; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "微气候",
+      "热舒适",
+      "景观"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-c71006c85a",
+        "title": "Microclimatic Landscape Design: Creating Thermal Comfort and Energy Efficiency",
+        "authors": [
+          "R. D. Brown",
+          "T. J. Gillespie"
+        ],
+        "year": 1995,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "The Practice of Everyday Life",
@@ -140,8 +692,35 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Everyday behaviour, walking, spatial practices and occupation of space.",
-    "url": ""
+    "notes": "Everyday behaviour, walking, spatial practices and occupation of space; course resources: ARCH10003.",
+    "url": "https://www.ucpress.edu/flyer/books/the-practice-of-everyday-life/paper",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "日常生活",
+      "空间实践"
+    ],
+    "reference_links": [
+      "https://www.ucpress.edu/flyer/books/the-practice-of-everyday-life/paper"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-262331a70b",
+        "title": "The Practice of Everyday Life",
+        "authors": [
+          "Michel de Certeau"
+        ],
+        "year": 1984,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "The Architectural Detail",
@@ -152,8 +731,35 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Architectural details, tectonics and construction as design.",
-    "url": ""
+    "notes": "Architectural details, tectonics and construction as design; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "建筑细部",
+      "构造"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-ede552f2b1",
+        "title": "The Architectural Detail",
+        "authors": [
+          "Edward R. Ford"
+        ],
+        "year": 2011,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "How to Study Public Life",
@@ -164,8 +770,37 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Behavioural mapping, observation methods and public-space analysis.",
-    "url": ""
+    "notes": "Behavioural mapping, observation methods and public-space analysis; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "公共生活",
+      "场地观察",
+      "研究方法"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-92d324c417",
+        "title": "How to Study Public Life",
+        "authors": [
+          "Jan Gehl",
+          "Birgitte Svarre"
+        ],
+        "year": 2013,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Space and Learning: Lessons in Architecture 3",
@@ -176,8 +811,35 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Learning environments, thresholds, social space and spatial behaviour.",
-    "url": ""
+    "notes": "Learning environments, thresholds, social space and spatial behaviour; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "空间与学习",
+      "建筑设计"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-91c7e4e545",
+        "title": "Space and Learning: Lessons in Architecture 3",
+        "authors": [
+          "Herman Hertzberger"
+        ],
+        "year": 2008,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Picturing Architecture",
@@ -188,8 +850,36 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Graphic presentation techniques in Australian architectural practice.",
-    "url": ""
+    "notes": "Graphic presentation techniques in Australian architectural practice; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "建筑表达",
+      "澳大利亚建筑实践"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-845424cd52",
+        "title": "Picturing Architecture: Graphic Presentation Techniques in Australian Architectural Practice",
+        "authors": [
+          "D. O. Luscombe",
+          "A. Peden"
+        ],
+        "year": 1992,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Manual of Section",
@@ -200,8 +890,58 @@
     "priority": 5,
     "status": "Not started",
     "type": "Book",
-    "notes": "Sectional typologies and spatial relationships through section.",
-    "url": ""
+    "notes": "Sectional typologies and spatial relationships through section; course resources: ARCH10003, ARCH20004.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003",
+      "ARCH20004"
+    ],
+    "topics": [
+      "剖面",
+      "建筑先例",
+      "建筑剖面",
+      "视觉传达"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+      "https://issuu.com/papress/docs/manualofsection_issuu"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-9d7055a6b6",
+        "title": "Manual of Section",
+        "authors": [
+          "P. Lewis",
+          "M. Tsurumaki",
+          "D. Lewis"
+        ],
+        "year": 2016,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      },
+      {
+        "resource_id": "R-c28a50c096",
+        "title": "Manual of Section",
+        "authors": [
+          "Paul Lewis",
+          "Marc Tsurumaki",
+          "David J. Lewis"
+        ],
+        "year": 2016,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Architectural Diagrams 1",
@@ -212,8 +952,35 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Diagramming and visual analysis for architectural design.",
-    "url": ""
+    "notes": "Diagramming and visual analysis for architectural design; course resources: ARCH10003.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003"
+    ],
+    "topics": [
+      "图解",
+      "设计沟通"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-b4235405c3",
+        "title": "Architectural Diagrams, Vol. 1（2015课程条目）",
+        "authors": [
+          "Miyoung Pyo（编）"
+        ],
+        "year": 2015,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Architectural Diagrams 2: Construction and Design Manual",
@@ -224,8 +991,51 @@
     "priority": 4,
     "status": "Not started",
     "type": "Book",
-    "notes": "Contemporary diagramming, design process and communication.",
-    "url": ""
+    "notes": "Contemporary diagramming, design process and communication; course resources: ARCH10003, ARCH20004.",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+    "courses": [
+      "ARCH10003",
+      "ARCH20004"
+    ],
+    "topics": [
+      "图解",
+      "设计沟通",
+      "视觉传达"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+      "https://dom-publishers.com/products/architectural-diagrams-2"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-80613f059f",
+        "title": "Architectural Diagrams, Vol. 2: Construction and Design Manual（2019课程条目）",
+        "authors": [
+          "Miyoung Pyo（编）"
+        ],
+        "year": 2019,
+        "sources": [
+          {
+            "course": "ARCH10003",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/236878/pages/resources",
+            "label": "Supplementary reading list（补充书单）"
+          }
+        ]
+      },
+      {
+        "resource_id": "R-2b0b1f1b17",
+        "title": "Architectural Diagrams 2",
+        "authors": [],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Building Construction Illustrated",
@@ -236,8 +1046,39 @@
     "priority": 5,
     "status": "Reference",
     "type": "Reference",
-    "notes": "Long-term visual reference for construction systems, sections, details, and wall, floor and roof assemblies.",
-    "url": ""
+    "notes": "Long-term visual reference for construction systems, sections, details, and wall, floor and roof assemblies; course resources: ABPL10007 (1 assigned chapter entries; see course_readings).",
+    "url": "https://librarysearch.unimelb.edu.au/discovery/search?query=any%2Ccontains%2CBuilding+construction+illustrated&vid=61UMB_INST%3A61UMB_INST",
+    "courses": [
+      "ABPL10007"
+    ],
+    "topics": [
+      "屋面系统",
+      "建构与构造",
+      "剖面表达"
+    ],
+    "reference_links": [
+      "https://librarysearch.unimelb.edu.au/discovery/search?query=any%2Ccontains%2CBuilding+construction+illustrated&vid=61UMB_INST%3A61UMB_INST"
+    ],
+    "course_references": [],
+    "course_readings": [
+      {
+        "resource_id": "R-49876590f8",
+        "title": "Building Construction Illustrated — “Roof systems”",
+        "authors": [
+          "Francis D. K. Ching"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ABPL10007",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/237350/pages/week-12-2",
+            "label": "明确指定6.16–6.22，可继续探索本章"
+          }
+        ],
+        "citation": "页面标题为 Week 12；明确要求读 Roof systems 6.16–6.22。",
+        "url": "https://librarysearch.unimelb.edu.au/discovery/search?query=any%2Ccontains%2CBuilding+construction+illustrated&vid=61UMB_INST%3A61UMB_INST"
+      }
+    ]
   },
   {
     "title": "Home: A Short History of an Idea",

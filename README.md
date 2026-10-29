@@ -21,3 +21,9 @@ Example:
 > Add "Complexity and Contradiction in Architecture" by Robert Venturi to books.json under Architectural Theory. Mark it Supplementary, priority 4, status Not started. Do not redesign the site.
 
 See `AGENTS.md` for maintenance rules.
+
+## Course cross-references
+
+[课程知识库中的重合书籍与章节](COURSE-READING-OVERLAPS.md)
+
+Matching entries in `books.json` include course references, topics, related chapters and additional source links; existing reading status, priority and category are preserved.
