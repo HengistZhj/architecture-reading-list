@@ -1235,5 +1235,1170 @@
     "type": "Book",
     "notes": "Gender, sexuality, identity and politics in relation to domestic space and home.",
     "url": ""
+  },
+  {
+    "title": "Architectural Geometry",
+    "authors": "Helmut Pottmann, et al.",
+    "year": 2007,
+    "category": "Model Making / Studio Craft",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 建筑几何, 数字模型 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "建筑几何",
+      "数字模型"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-229e913ef3",
+        "title": "Architectural Geometry",
+        "authors": [
+          "Helmut Pottmann",
+          "et al."
+        ],
+        "year": 2007,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Architectural Modelmaking",
+    "authors": "Nick Dunn",
+    "year": 2014,
+    "category": "Model Making / Studio Craft",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 实体模型, 原型 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "实体模型",
+      "原型"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-5fc4ac6b61",
+        "title": "Architectural Modelmaking",
+        "authors": [
+          "Nick Dunn"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Building Performance Analysis",
+    "authors": "Pieter de Wilde",
+    "year": 2018,
+    "category": "Environmental Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 建筑性能, 性能分析 (ARCH20004).",
+    "url": "https://www.wiley.com/en-gb/building-performance-analysis-p-9781119341901",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "建筑性能",
+      "性能分析"
+    ],
+    "reference_links": [
+      "https://www.wiley.com/en-gb/building-performance-analysis-p-9781119341901"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-e30f11f0fa",
+        "title": "Building Performance Analysis",
+        "authors": [
+          "Pieter de Wilde"
+        ],
+        "year": 2018,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Case Studies in Parametric Design: A Guide to Visual Scripting in Architecture",
+    "authors": "J. Collins",
+    "year": 2024,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 参数化设计, 可视化编程 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "参数化设计",
+      "可视化编程"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-1f96fc3730",
+        "title": "Case Studies in Parametric Design: A Guide to Visual Scripting in Architecture",
+        "authors": [
+          "J. Collins"
+        ],
+        "year": 2024,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Conditional Design: An Introduction to Elemental Architecture",
+    "authors": "Anthony Di Mari",
+    "year": "",
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 形式操作, 图解 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "形式操作",
+      "图解"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-83623881ea",
+        "title": "Conditional Design: An Introduction to Elemental Architecture",
+        "authors": [
+          "Anthony Di Mari"
+        ],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Design Elements: Understanding the Rules and Knowing When to Break Them",
+    "authors": "Timothy Samara",
+    "year": 2014,
+    "category": "Representation",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 视觉传达, 版式 (ARCH20004).",
+    "url": "https://learning.oreilly.com/library/view/design-elements-2nd/9781592539277/",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "视觉传达",
+      "版式"
+    ],
+    "reference_links": [
+      "https://learning.oreilly.com/library/view/design-elements-2nd/9781592539277/"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-cdd14019b3",
+        "title": "Design Elements: Understanding the Rules and Knowing When to Break Them",
+        "authors": [
+          "Timothy Samara"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Design Process in Architecture: From Concept to Completion",
+    "authors": "Geoffrey Makstutis",
+    "year": 2018,
+    "category": "Architectural Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 设计流程 (ARCH20004).",
+    "url": "https://us.laurenceking.com/products/design-process-in-architecture",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "设计流程"
+    ],
+    "reference_links": [
+      "https://us.laurenceking.com/products/design-process-in-architecture"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-e914c3a26f",
+        "title": "Design Process in Architecture: From Concept to Completion",
+        "authors": [
+          "Geoffrey Makstutis"
+        ],
+        "year": 2018,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Designing with Models: A Studio Guide to Making and Using Architectural Design Models",
+    "authors": "Criss B. Mills",
+    "year": 2010,
+    "category": "Model Making / Studio Craft",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 实体模型, 原型 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "实体模型",
+      "原型"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-6f7fa5a87e",
+        "title": "Designing with Models: A Studio Guide to Making and Using Architectural Design Models",
+        "authors": [
+          "Criss B. Mills"
+        ],
+        "year": 2010,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diagramming the Big Idea: Methods for Architectural Composition",
+    "authors": "Jeffrey Balmer, Michael T. Swisher",
+    "year": 2012,
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 图解, 构图 (ARCH20004).",
+    "url": "https://www.routledge.com/Diagramming-the-Big-Idea-Methods-for-Architectural-Composition/Balmer-Swisher/p/book/9781032937601",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "图解",
+      "构图"
+    ],
+    "reference_links": [
+      "https://www.routledge.com/Diagramming-the-Big-Idea-Methods-for-Architectural-Composition/Balmer-Swisher/p/book/9781032937601"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-5badd5dfd1",
+        "title": "Diagramming the Big Idea: Methods for Architectural Composition",
+        "authors": [
+          "Jeffrey Balmer",
+          "Michael T. Swisher"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Fabrication in Architecture",
+    "authors": "Nick Dunn",
+    "year": 2012,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 数字制造 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "数字制造"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-a6599d7f51",
+        "title": "Digital Fabrication in Architecture",
+        "authors": [
+          "Nick Dunn"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Fabrications: Architectural and Material Techniques",
+    "authors": "Lisa Iwamoto",
+    "year": 2009,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 数字制造, 材料技术 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "数字制造",
+      "材料技术"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-0919f78cf3",
+        "title": "Digital Fabrications: Architectural and Material Techniques",
+        "authors": [
+          "Lisa Iwamoto"
+        ],
+        "year": 2009,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Digital Workflows in Architecture: Designing Design – Designing Assembly – Designing Industry",
+    "authors": "Scott Marble (editor)",
+    "year": 2012,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 数字设计流程 (ARCH20004).",
+    "url": "https://www.cca.qc.ca/en/search/details/library/publication/819721735",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "数字设计流程"
+    ],
+    "reference_links": [
+      "https://www.cca.qc.ca/en/search/details/library/publication/819721735"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-3b591adb19",
+        "title": "Digital Workflows in Architecture: Designing Design – Designing Assembly – Designing Industry",
+        "authors": [
+          "Scott Marble (editor)"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Drawing Futures",
+    "authors": "",
+    "year": "",
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 绘图, 图解 (ARCH20004).",
+    "url": "https://web2.mlp.cz/koweb/00/04/36/32/61/drawing_futures.pdf",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "绘图",
+      "图解"
+    ],
+    "reference_links": [
+      "https://web2.mlp.cz/koweb/00/04/36/32/61/drawing_futures.pdf"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-48c9fe5e76",
+        "title": "Drawing Futures",
+        "authors": [],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Folds, Bodies & Blobs",
+    "authors": "Greg Lynn",
+    "year": "",
+    "category": "Architectural Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 形态生成, 非标准设计 (ARCH20004).",
+    "url": "https://www.amazon.com.au/Folds-Bodies-Blobs-Books-architects/dp/2873170689",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "形态生成",
+      "非标准设计"
+    ],
+    "reference_links": [
+      "https://www.amazon.com.au/Folds-Bodies-Blobs-Books-architects/dp/2873170689"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-b37c2e901e",
+        "title": "Folds, Bodies & Blobs",
+        "authors": [
+          "Greg Lynn"
+        ],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-3",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "From Control to Design: Parametric/Algorithmic Architecture",
+    "authors": "T. Sakamoto, et al.",
+    "year": 2008,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 参数化设计, 数字制造 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "参数化设计",
+      "数字制造"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-26295f5962",
+        "title": "From Control to Design: Parametric/Algorithmic Architecture",
+        "authors": [
+          "T. Sakamoto",
+          "et al."
+        ],
+        "year": 2008,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Operative Design: A Catalog of Spatial Verbs",
+    "authors": "Anthony Di Mari, Nora Yoo",
+    "year": "",
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 形式操作, 图解 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "形式操作",
+      "图解"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-ce2611de24",
+        "title": "Operative Design: A Catalog of Spatial Verbs",
+        "authors": [
+          "Anthony Di Mari",
+          "Nora Yoo"
+        ],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Precedents in Architecture: Analytic Diagrams, Formative Ideas, and Partis",
+    "authors": "Roger H. Clark, Michael Pause",
+    "year": 2012,
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 先例分析, 图解 (ARCH20004).",
+    "url": "https://www.wiley.com/en-us/precedents-in-architecture-analytic-diagrams-formative-ideas-and-partis-4th-edition-p-9781118170847",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "先例分析",
+      "图解"
+    ],
+    "reference_links": [
+      "https://www.wiley.com/en-us/precedents-in-architecture-analytic-diagrams-formative-ideas-and-partis-4th-edition-p-9781118170847"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-5a6e1b7e67",
+        "title": "Precedents in Architecture: Analytic Diagrams, Formative Ideas, and Partis",
+        "authors": [
+          "Roger H. Clark",
+          "Michael Pause"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Prototyping for Architects",
+    "authors": "Jane Burry, Mark Burry",
+    "year": 2016,
+    "category": "Model Making / Studio Craft",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 原型, 数字制造 (ARCH20004).",
+    "url": "https://www.thamesandhudson.com/products/prototyping-for-architects",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "原型",
+      "数字制造"
+    ],
+    "reference_links": [
+      "https://www.thamesandhudson.com/products/prototyping-for-architects"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-864b0de6bf",
+        "title": "Prototyping for Architects",
+        "authors": [
+          "Jane Burry",
+          "Mark Burry"
+        ],
+        "year": 2016,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rooms and Corridors: A Plan for Tending and Untending",
+    "authors": "",
+    "year": "",
+    "category": "Architectural Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 平面组织, 空间 (ARCH20004).",
+    "url": "https://www.perimeterbooks.com/products/rooms-and-corridors-a-plan-for-tending-and-untending",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "平面组织",
+      "空间"
+    ],
+    "reference_links": [
+      "https://www.perimeterbooks.com/products/rooms-and-corridors-a-plan-for-tending-and-untending"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-3868372d72",
+        "title": "Rooms and Corridors: A Plan for Tending and Untending",
+        "authors": [],
+        "year": null,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Structural Design for Architecture",
+    "authors": "Angus J. Macdonald",
+    "year": 1997,
+    "category": "Detail / Construction",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 结构设计, 建筑性能 (ARCH20004).",
+    "url": "https://angusjmacdonaldstructure.uk/publications/",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "结构设计",
+      "建筑性能"
+    ],
+    "reference_links": [
+      "https://angusjmacdonaldstructure.uk/publications/"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-08a5d42653",
+        "title": "Structural Design for Architecture",
+        "authors": [
+          "Angus J. Macdonald"
+        ],
+        "year": 1997,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Diagrams of Architecture: AD Reader",
+    "authors": "Mark Garcia (editor)",
+    "year": 2010,
+    "category": "Diagrams",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 图解 (ARCH20004).",
+    "url": "https://www.wiley.com/en-us/The+Diagrams+of+Architecture%3A+AD+Reader-p-9780470519455",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "图解"
+    ],
+    "reference_links": [
+      "https://www.wiley.com/en-us/The+Diagrams+of+Architecture%3A+AD+Reader-p-9780470519455"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-4feaa5d215",
+        "title": "The Diagrams of Architecture: AD Reader",
+        "authors": [
+          "Mark Garcia (editor)"
+        ],
+        "year": 2010,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Form of Knowledge: The Prototype of Architectural Thinking and Its Application",
+    "authors": "Ryuji Fujimura",
+    "year": 2018,
+    "category": "Model Making / Studio Craft",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 原型, 设计思维 (ARCH20004).",
+    "url": "https://info.jp.toto.com/gallerma/ex180731/sympsm_e.htm",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "原型",
+      "设计思维"
+    ],
+    "reference_links": [
+      "https://info.jp.toto.com/gallerma/ex180731/sympsm_e.htm"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-13639014e9",
+        "title": "The Form of Knowledge: The Prototype of Architectural Thinking and Its Application",
+        "authors": [
+          "Ryuji Fujimura"
+        ],
+        "year": 2018,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Future Envelope 2: Architecture – Climate – Skin",
+    "authors": "Ulrich Knaack, Tillmann Klein",
+    "year": 2010,
+    "category": "Environmental Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 建筑性能, 围护结构, 立面原型 (ARCH20004).",
+    "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "建筑性能",
+      "围护结构",
+      "立面原型"
+    ],
+    "reference_links": [
+      "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-674a57eb20",
+        "title": "The Future Envelope 2: Architecture – Climate – Skin",
+        "authors": [
+          "Ulrich Knaack",
+          "Tillmann Klein"
+        ],
+        "year": 2010,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Understanding Architecture: A Primer on Architecture as Experience",
+    "authors": "Robert McCarter, Juhani Pallasmaa",
+    "year": 2012,
+    "category": "Architectural Design",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 先例分析, 空间体验 (ARCH20004).",
+    "url": "https://elib.lasalle.edu.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=68598&SETLVL=",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "先例分析",
+      "空间体验"
+    ],
+    "reference_links": [
+      "https://elib.lasalle.edu.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=68598&SETLVL="
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-a60a55795a",
+        "title": "Understanding Architecture: A Primer on Architecture as Experience",
+        "authors": [
+          "Robert McCarter",
+          "Juhani Pallasmaa"
+        ],
+        "year": 2012,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Visual Communication Design: An Introduction to Design Concepts in Everyday Experience",
+    "authors": "Meredith Davis, Jamer Hunt",
+    "year": 2017,
+    "category": "Representation",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 视觉传达 (ARCH20004).",
+    "url": "https://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=6513539",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "视觉传达"
+    ],
+    "reference_links": [
+      "https://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=6513539"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-b68a52620d",
+        "title": "Visual Communication Design: An Introduction to Design Concepts in Everyday Experience",
+        "authors": [
+          "Meredith Davis",
+          "Jamer Hunt"
+        ],
+        "year": 2017,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Visualizing Complexity: Modular Information Design Handbook",
+    "authors": "Darjan Hil, Nicole Lachenmeier",
+    "year": 2022,
+    "category": "Representation",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 信息设计, 数据可视化 (ARCH20004).",
+    "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783035625066/html",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "信息设计",
+      "数据可视化"
+    ],
+    "reference_links": [
+      "https://www.degruyterbrill.com/document/doi/10.1515/9783035625066/html"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-fa935b55e7",
+        "title": "Visualizing Complexity: Modular Information Design Handbook",
+        "authors": [
+          "Darjan Hil",
+          "Nicole Lachenmeier"
+        ],
+        "year": 2022,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-4",
+            "label": "Study Resources（课程列出，未标明必读或选读）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workflows: Expanding Architecture’s Territory in the Design and Delivery of Buildings",
+    "authors": "Richard Garber (guest editor)",
+    "year": 2017,
+    "category": "Digital Design / Fabrication",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "Course-listed reference for 数字设计流程, 设计协作 (ARCH20004).",
+    "url": "https://www.wiley.com/en-us/workflows-expanding-architecture%27s-territory-in-the-design-and-delivery-of-buildings-p-9781119317845",
+    "courses": [
+      "ARCH20004"
+    ],
+    "topics": [
+      "数字设计流程",
+      "设计协作"
+    ],
+    "reference_links": [
+      "https://www.wiley.com/en-us/workflows-expanding-architecture%27s-territory-in-the-design-and-delivery-of-buildings-p-9781119317845"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-564e76f0f3",
+        "title": "Workflows: Expanding Architecture’s Territory in the Design and Delivery of Buildings",
+        "authors": [
+          "Richard Garber (guest editor)"
+        ],
+        "year": 2017,
+        "sources": [
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          },
+          {
+            "course": "ARCH20004",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/subject-resources",
+            "label": "课程 General Reference Texts 推荐（用于拓展课程内容与作业参考）"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dark Emu",
+    "authors": "Bruce Pascoe",
+    "year": 2014,
+    "category": "History / Precedent",
+    "list": "Supplementary",
+    "priority": 3,
+    "status": "Not started",
+    "type": "Book",
+    "notes": "ABPL10007 lists the chapter “Construction and design” from this book.",
+    "url": "https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662",
+    "courses": [
+      "ABPL10007"
+    ],
+    "topics": [
+      "乡土建筑",
+      "原住民知识",
+      "建造与设计"
+    ],
+    "reference_links": [
+      "https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662"
+    ],
+    "course_references": [
+      {
+        "resource_id": "R-41657cfcca",
+        "title": "Dark Emu",
+        "authors": [
+          "Bruce Pascoe"
+        ],
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ABPL10007",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/237350/pages/week-1",
+            "label": "课程在线学习指定章节"
+          }
+        ]
+      }
+    ],
+    "course_readings": [
+      {
+        "resource_id": "R-41657cfcca",
+        "title": "Dark Emu — “Construction and design”",
+        "year": 2014,
+        "sources": [
+          {
+            "course": "ABPL10007",
+            "url": "https://canvas.lms.unimelb.edu.au/courses/237350/pages/week-1",
+            "label": "课程在线学习指定章节"
+          }
+        ],
+        "url": "https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662"
+      }
+    ]
   }
 ]

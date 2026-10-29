@@ -27,3 +27,7 @@ See `AGENTS.md` for maintenance rules.
 [课程知识库中的重合书籍与章节](COURSE-READING-OVERLAPS.md)
 
 Matching entries in `books.json` include course references, topics, related chapters and additional source links; existing reading status, priority and category are preserved.
+
+## Additional course books
+
+[从课程知识库新增的28本书](COURSE-READING-ADDITIONS.md)；书单现在共61本，新增条目默认 Supplementary、priority 3、Not started。
