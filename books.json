@@ -56,7 +56,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑：形式、空间与秩序",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "关于形式、空间、流线、比例与空间组织的核心参考书；课程资料：ARCH10003、ARCH20004。"
   },
   {
     "title": "Architectural Graphics",
@@ -266,7 +272,13 @@
         "citation": "Ching, Francis D. K., in Architectural Graphics, Architectural Press, 1970, 148 - 149",
         "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e0f9e7de-aa14-496a-a6b4-14ee1bdb676d"
       }
-    ]
+    ],
+    "title_zh": "建筑制图",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑表达",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "涵盖平面、剖面、立面、轴测、透视与线条表达；课程资料：ARCH10003，另附6条指定章节记录。"
   },
   {
     "title": "Landscape Graphics",
@@ -305,7 +317,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "景观制图",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "场地与景观",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍景观绘图、场地图示、标注与植被表达；课程资料：ARCH10003。"
   },
   {
     "title": "Metric Handbook: Planning and Design Data",
@@ -344,7 +362,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "尺度手册：规划与设计数据",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "标准与规划数据",
+    "list_zh": "主书单",
+    "status_zh": "备查",
+    "notes_zh": "提供规划标准、尺度与设计数据；课程资料：ARCH10003。"
   },
   {
     "title": "Tools for Ideas: Introduction to Architectural Design",
@@ -383,7 +407,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "构思工具：建筑设计导论",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍设计流程、建筑思维及构思发展工具；课程资料：ARCH10003。"
   },
   {
     "title": "Studio Craft & Technique for Architects",
@@ -480,7 +510,13 @@
         "citation": "Delaney, Miriam; Gorman, Anne, in Studio craft & technique for architects, by Delaney, Miriam,, [New edition]., London :, Laurence King, 2015., 118 - 135",
         "url": "https://canvas.lms.unimelb.edu.au/courses/236878/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=3dc1289a-379a-4b99-9ce9-4477ba238142"
       }
-    ]
+    ],
+    "title_zh": "建筑师的工作室工艺与技法",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍实体模型制作、工作室技法与建筑工艺；课程资料：ARCH10003，另附2条指定章节记录。"
   },
   {
     "title": "Architects’ Data",
@@ -521,7 +557,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑设计资料集",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "标准与规划数据",
+    "list_zh": "主书单",
+    "status_zh": "备查",
+    "notes_zh": "提供尺度、人体工学、建筑类型与空间标准参考；课程资料：ARCH10003。"
   },
   {
     "title": "Architectural Diagrams",
@@ -560,7 +602,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑图解",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍建筑图解、概念图与分析性表达；课程资料：ARCH10003。"
   },
   {
     "title": "Elements of Modern Architecture",
@@ -601,7 +649,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "现代建筑的要素",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "历史与先例",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "通过建筑要素与先例分析理解现代建筑；课程资料：ARCH10003。"
   },
   {
     "title": "Handbook of Tyranny",
@@ -640,7 +694,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "暴政手册",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "批判性制图",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "通过空间控制、边界、监视与规范进行批判性制图；课程资料：ARCH10003。"
   },
   {
     "title": "Microclimatic Landscape Design",
@@ -681,7 +741,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "微气候景观设计",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "环境设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "研究微气候、热舒适、日照、风与景观设计；课程资料：ARCH10003。"
   },
   {
     "title": "The Practice of Everyday Life",
@@ -720,7 +786,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "日常生活实践",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "理论与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论日常行为、步行、空间实践与空间使用；课程资料：ARCH10003。"
   },
   {
     "title": "The Architectural Detail",
@@ -759,7 +831,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑细部",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "细部与构造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "将建筑细部、建构与施工视为设计问题；课程资料：ARCH10003。"
   },
   {
     "title": "How to Study Public Life",
@@ -800,7 +878,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "如何研究公共生活",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "场地与公共空间",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍行为制图、观察方法与公共空间分析；课程资料：ARCH10003。"
   },
   {
     "title": "Space and Learning: Lessons in Architecture 3",
@@ -839,7 +923,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "空间与学习：建筑课第三卷",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "空间与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论学习环境、过渡空间、社会空间与空间行为；课程资料：ARCH10003。"
   },
   {
     "title": "Picturing Architecture",
@@ -879,7 +969,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "图绘建筑",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑表达",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍澳大利亚建筑实践中的图形展示技法；课程资料：ARCH10003。"
   },
   {
     "title": "Manual of Section",
@@ -941,7 +1037,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "剖面手册",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "剖面与表达",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "通过剖面类型理解空间关系；课程资料：ARCH10003、ARCH20004。"
   },
   {
     "title": "Architectural Diagrams 1",
@@ -980,7 +1082,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑图解第一卷",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍建筑设计中的图解与视觉分析；课程资料：ARCH10003。"
   },
   {
     "title": "Architectural Diagrams 2: Construction and Design Manual",
@@ -1035,7 +1143,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑图解第二卷：建造与设计手册",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍当代图解、设计流程与设计沟通；课程资料：ARCH10003、ARCH20004。"
   },
   {
     "title": "Building Construction Illustrated",
@@ -1078,7 +1192,13 @@
         "citation": "页面标题为 Week 12；明确要求读 Roof systems 6.16–6.22。",
         "url": "https://librarysearch.unimelb.edu.au/discovery/search?query=any%2Ccontains%2CBuilding+construction+illustrated&vid=61UMB_INST%3A61UMB_INST"
       }
-    ]
+    ],
+    "title_zh": "图解建筑构造",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "细部与构造",
+    "list_zh": "主书单",
+    "status_zh": "备查",
+    "notes_zh": "作为构造系统、剖面、细部及墙、楼板与屋顶构造的长期图解参考；课程资料：ABPL10007，另附1条指定章节记录。"
   },
   {
     "title": "Home: A Short History of an Idea",
@@ -1090,7 +1210,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Explores comfort, privacy, domesticity and the historical development of the idea of home.",
-    "url": ""
+    "url": "",
+    "title_zh": "家：一个观念的简史",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "理论与行为",
+    "list_zh": "主书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论舒适、私密、家庭生活与家的观念如何发展。"
   },
   {
     "title": "Concrete and Culture: A Material History",
@@ -1102,7 +1228,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Connects concrete with architectural culture, materiality, modernity and design meaning.",
-    "url": ""
+    "url": "",
+    "title_zh": "混凝土与文化：一部材料史",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "细部与构造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "联系混凝土与建筑文化、材料性、现代性及设计意义。"
   },
   {
     "title": "Defined by Design: The Surprising Power of Hidden Gender, Age, and Body Bias in Everyday Products and Places",
@@ -1114,7 +1246,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Human-centred and inclusive design through gender, age, body and built-environment bias.",
-    "url": ""
+    "url": "",
+    "title_zh": "被设计所定义：日常产品与场所中隐含的性别、年龄与身体偏见",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "空间与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "从性别、年龄、身体与建成环境中的偏见讨论以人为本和包容性设计。"
   },
   {
     "title": "The Domestic Space Reader",
@@ -1126,7 +1264,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Interdisciplinary readings on domesticity, home and the social meanings of domestic space.",
-    "url": ""
+    "url": "",
+    "title_zh": "居家空间读本",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "空间与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "从跨学科角度讨论家庭生活、家与居住空间的社会意义。"
   },
   {
     "title": "Australian Modern: Architecture, Landscape & Design, 1925–1975",
@@ -1138,7 +1282,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Australian modern architecture, landscape and design; useful contextual precedent for studying architecture in Australia.",
-    "url": ""
+    "url": "",
+    "title_zh": "澳大利亚现代：建筑、景观与设计，1925—1975",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "历史与先例",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍澳大利亚现代建筑、景观与设计，为当地建筑学习提供先例背景。"
   },
   {
     "title": "Towards the Dawn: Federation Architecture in Australia 1890–1915",
@@ -1150,7 +1300,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Federation-era Australian architecture and a foundation for understanding local architectural history.",
-    "url": ""
+    "url": "",
+    "title_zh": "走向黎明：澳大利亚联邦时期建筑，1890—1915",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "历史与先例",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "介绍澳大利亚联邦时期建筑，为理解本地建筑史提供基础。"
   },
   {
     "title": "Tower and Slab: Histories of Global Mass Housing",
@@ -1162,7 +1318,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Global mass housing, housing typologies and their relationship to urbanism.",
-    "url": ""
+    "url": "",
+    "title_zh": "塔楼与板楼：全球大众住宅史",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "场地与公共空间",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论全球大众住宅、住宅类型及其与城市主义的关系。"
   },
   {
     "title": "Remaking Chinese Urban Form: Modernity, Scarcity and Space, 1949–2005",
@@ -1174,7 +1336,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Chinese urban form, modernisation, scarcity and the production of urban space.",
-    "url": ""
+    "url": "",
+    "title_zh": "重塑中国城市形态：现代性、匮乏与空间，1949—2005",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "场地与公共空间",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论中国城市形态、现代化、匮乏与城市空间的生产。"
   },
   {
     "title": "At Home: An Anthropology of Domestic Space",
@@ -1186,7 +1354,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Anthropological perspectives on home, domestic space and everyday spatial practices.",
-    "url": ""
+    "url": "",
+    "title_zh": "在家：居住空间的人类学",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "空间与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "从人类学角度理解家、居住空间与日常空间实践。"
   },
   {
     "title": "Housing and Dwelling: Perspectives on Modern Domestic Architecture",
@@ -1198,7 +1372,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Modern domestic architecture and housing through historical and theoretical perspectives.",
-    "url": ""
+    "url": "",
+    "title_zh": "住宅与居住：现代住宅建筑的多重视角",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "历史与先例",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "从历史与理论角度讨论现代住宅建筑与居住。"
   },
   {
     "title": "Migrant Housing: Architecture, Dwelling, Migration",
@@ -1210,7 +1390,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Migration, identity, diaspora and dwelling as architectural and spatial questions.",
-    "url": ""
+    "url": "",
+    "title_zh": "移民住宅：建筑、居住与迁移",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "批判性制图",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "将迁移、身份、离散与居住作为建筑和空间问题。"
   },
   {
     "title": "Housing Design in Indigenous Australia",
@@ -1222,7 +1408,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Indigenous housing in Australia, connecting culture, dwelling practices and architectural design.",
-    "url": ""
+    "url": "",
+    "title_zh": "澳大利亚原住民住宅设计",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "批判性制图",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "联系澳大利亚原住民文化、居住实践与住宅建筑设计。"
   },
   {
     "title": "Sexuality and Gender at Home: Experience, Politics, Transgression",
@@ -1234,7 +1426,13 @@
     "status": "Not started",
     "type": "Book",
     "notes": "Gender, sexuality, identity and politics in relation to domestic space and home.",
-    "url": ""
+    "url": "",
+    "title_zh": "家中的性与性别：体验、政治与越界",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "理论与行为",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "讨论居家空间中的性别、性、身份与政治。"
   },
   {
     "title": "Architectural Geometry",
@@ -1245,7 +1443,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 建筑几何, 数字模型 (ARCH20004).",
+    "notes": "Course-listed reference for architectural geometry, digital models (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
     "courses": [
       "ARCH20004"
@@ -1279,7 +1477,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑几何学",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括建筑几何、数字模型（ARCH20004）。"
   },
   {
     "title": "Architectural Modelmaking",
@@ -1290,7 +1494,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 实体模型, 原型 (ARCH20004).",
+    "notes": "Course-listed reference for physical models, prototyping (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
     "courses": [
       "ARCH20004"
@@ -1328,7 +1532,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑模型制作",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括实体模型、原型（ARCH20004）。"
   },
   {
     "title": "Building Performance Analysis",
@@ -1339,7 +1549,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 建筑性能, 性能分析 (ARCH20004).",
+    "notes": "Course-listed reference for building performance, performance analysis (ARCH20004).",
     "url": "https://www.wiley.com/en-gb/building-performance-analysis-p-9781119341901",
     "courses": [
       "ARCH20004"
@@ -1367,7 +1577,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑性能分析",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "环境设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括建筑性能、性能分析（ARCH20004）。"
   },
   {
     "title": "Case Studies in Parametric Design: A Guide to Visual Scripting in Architecture",
@@ -1378,7 +1594,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 参数化设计, 可视化编程 (ARCH20004).",
+    "notes": "Course-listed reference for parametric design, visual programming (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5",
     "courses": [
       "ARCH20004"
@@ -1406,7 +1622,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "参数化设计案例：建筑可视化脚本指南",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括参数化设计、可视化编程（ARCH20004）。"
   },
   {
     "title": "Conditional Design: An Introduction to Elemental Architecture",
@@ -1417,7 +1639,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 形式操作, 图解 (ARCH20004).",
+    "notes": "Course-listed reference for formal operations, diagrams (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
     "courses": [
       "ARCH20004"
@@ -1445,7 +1667,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "条件式设计：基本建筑形式导论",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括形式操作、图解（ARCH20004）。"
   },
   {
     "title": "Design Elements: Understanding the Rules and Knowing When to Break Them",
@@ -1456,7 +1684,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 视觉传达, 版式 (ARCH20004).",
+    "notes": "Course-listed reference for visual communication, layout (ARCH20004).",
     "url": "https://learning.oreilly.com/library/view/design-elements-2nd/9781592539277/",
     "courses": [
       "ARCH20004"
@@ -1484,7 +1712,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "设计元素：理解规则与打破规则的时机",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑表达",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括视觉传达、版式（ARCH20004）。"
   },
   {
     "title": "Design Process in Architecture: From Concept to Completion",
@@ -1495,7 +1729,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 设计流程 (ARCH20004).",
+    "notes": "Course-listed reference for design process (ARCH20004).",
     "url": "https://us.laurenceking.com/products/design-process-in-architecture",
     "courses": [
       "ARCH20004"
@@ -1527,7 +1761,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑设计流程：从概念到完成",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括设计流程（ARCH20004）。"
   },
   {
     "title": "Designing with Models: A Studio Guide to Making and Using Architectural Design Models",
@@ -1538,7 +1778,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 实体模型, 原型 (ARCH20004).",
+    "notes": "Course-listed reference for physical models, prototyping (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
     "courses": [
       "ARCH20004"
@@ -1571,7 +1811,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "以模型进行设计：建筑设计模型制作与应用指南",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括实体模型、原型（ARCH20004）。"
   },
   {
     "title": "Diagramming the Big Idea: Methods for Architectural Composition",
@@ -1582,7 +1828,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 图解, 构图 (ARCH20004).",
+    "notes": "Course-listed reference for diagrams, composition (ARCH20004).",
     "url": "https://www.routledge.com/Diagramming-the-Big-Idea-Methods-for-Architectural-Composition/Balmer-Swisher/p/book/9781032937601",
     "courses": [
       "ARCH20004"
@@ -1611,7 +1857,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "图解核心构思：建筑构图的方法",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括图解、构图（ARCH20004）。"
   },
   {
     "title": "Digital Fabrication in Architecture",
@@ -1622,7 +1874,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 数字制造 (ARCH20004).",
+    "notes": "Course-listed reference for digital fabrication (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1",
     "courses": [
       "ARCH20004"
@@ -1649,7 +1901,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑中的数字制造",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括数字制造（ARCH20004）。"
   },
   {
     "title": "Digital Fabrications: Architectural and Material Techniques",
@@ -1660,7 +1918,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 数字制造, 材料技术 (ARCH20004).",
+    "notes": "Course-listed reference for digital fabrication, material techniques (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10",
     "courses": [
       "ARCH20004"
@@ -1688,7 +1946,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "数字建造：建筑与材料技术",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括数字制造、材料技术（ARCH20004）。"
   },
   {
     "title": "Digital Workflows in Architecture: Designing Design – Designing Assembly – Designing Industry",
@@ -1699,7 +1963,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 数字设计流程 (ARCH20004).",
+    "notes": "Course-listed reference for digital design workflows (ARCH20004).",
     "url": "https://www.cca.qc.ca/en/search/details/library/publication/819721735",
     "courses": [
       "ARCH20004"
@@ -1726,7 +1990,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑中的数字工作流程：设计、装配与产业",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括数字设计流程（ARCH20004）。"
   },
   {
     "title": "Drawing Futures",
@@ -1737,7 +2007,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 绘图, 图解 (ARCH20004).",
+    "notes": "Course-listed reference for drawing, diagrams (ARCH20004).",
     "url": "https://web2.mlp.cz/koweb/00/04/36/32/61/drawing_futures.pdf",
     "courses": [
       "ARCH20004"
@@ -1763,7 +2033,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "绘图的未来",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括绘图、图解（ARCH20004）。"
   },
   {
     "title": "Folds, Bodies & Blobs",
@@ -1774,7 +2050,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 形态生成, 非标准设计 (ARCH20004).",
+    "notes": "Course-listed reference for form generation, non-standard design (ARCH20004).",
     "url": "https://www.amazon.com.au/Folds-Bodies-Blobs-Books-architects/dp/2873170689",
     "courses": [
       "ARCH20004"
@@ -1802,7 +2078,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "折叠、身体与团块",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括形态生成、非标准设计（ARCH20004）。"
   },
   {
     "title": "From Control to Design: Parametric/Algorithmic Architecture",
@@ -1813,7 +2095,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 参数化设计, 数字制造 (ARCH20004).",
+    "notes": "Course-listed reference for parametric design, digital fabrication (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9",
     "courses": [
       "ARCH20004"
@@ -1842,7 +2124,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "从控制到设计：参数化与算法建筑",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括参数化设计、数字制造（ARCH20004）。"
   },
   {
     "title": "Operative Design: A Catalog of Spatial Verbs",
@@ -1853,7 +2141,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 形式操作, 图解 (ARCH20004).",
+    "notes": "Course-listed reference for formal operations, diagrams (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2",
     "courses": [
       "ARCH20004"
@@ -1882,7 +2170,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "操作性设计：空间动词目录",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括形式操作、图解（ARCH20004）。"
   },
   {
     "title": "Precedents in Architecture: Analytic Diagrams, Formative Ideas, and Partis",
@@ -1893,7 +2187,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 先例分析, 图解 (ARCH20004).",
+    "notes": "Course-listed reference for precedent analysis, diagrams (ARCH20004).",
     "url": "https://www.wiley.com/en-us/precedents-in-architecture-analytic-diagrams-formative-ideas-and-partis-4th-edition-p-9781118170847",
     "courses": [
       "ARCH20004"
@@ -1927,7 +2221,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑先例：分析图解、形成性构思与基本构型",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括先例分析、图解（ARCH20004）。"
   },
   {
     "title": "Prototyping for Architects",
@@ -1938,7 +2238,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 原型, 数字制造 (ARCH20004).",
+    "notes": "Course-listed reference for prototyping, digital fabrication (ARCH20004).",
     "url": "https://www.thamesandhudson.com/products/prototyping-for-architects",
     "courses": [
       "ARCH20004"
@@ -1977,7 +2277,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑师的原型制作",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括原型、数字制造（ARCH20004）。"
   },
   {
     "title": "Rooms and Corridors: A Plan for Tending and Untending",
@@ -1988,7 +2294,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 平面组织, 空间 (ARCH20004).",
+    "notes": "Course-listed reference for plan organisation, space (ARCH20004).",
     "url": "https://www.perimeterbooks.com/products/rooms-and-corridors-a-plan-for-tending-and-untending",
     "courses": [
       "ARCH20004"
@@ -2014,7 +2320,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "房间与走廊：照料与不照料的平面方案",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括平面组织、空间（ARCH20004）。"
   },
   {
     "title": "Structural Design for Architecture",
@@ -2025,7 +2337,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 结构设计, 建筑性能 (ARCH20004).",
+    "notes": "Course-listed reference for structural design, building performance (ARCH20004).",
     "url": "https://angusjmacdonaldstructure.uk/publications/",
     "courses": [
       "ARCH20004"
@@ -2053,7 +2365,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑结构设计",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "细部与构造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括结构设计、建筑性能（ARCH20004）。"
   },
   {
     "title": "The Diagrams of Architecture: AD Reader",
@@ -2064,7 +2382,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 图解 (ARCH20004).",
+    "notes": "Course-listed reference for diagrams (ARCH20004).",
     "url": "https://www.wiley.com/en-us/The+Diagrams+of+Architecture%3A+AD+Reader-p-9780470519455",
     "courses": [
       "ARCH20004"
@@ -2096,7 +2414,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "建筑图解：AD读本",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "图解",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括图解（ARCH20004）。"
   },
   {
     "title": "The Form of Knowledge: The Prototype of Architectural Thinking and Its Application",
@@ -2107,7 +2431,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 原型, 设计思维 (ARCH20004).",
+    "notes": "Course-listed reference for prototyping, design thinking (ARCH20004).",
     "url": "https://info.jp.toto.com/gallerma/ex180731/sympsm_e.htm",
     "courses": [
       "ARCH20004"
@@ -2135,7 +2459,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "知识的形式：建筑思维的原型及其应用",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "模型制作与工作室技法",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括原型、设计思维（ARCH20004）。"
   },
   {
     "title": "The Future Envelope 2: Architecture – Climate – Skin",
@@ -2146,7 +2476,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 建筑性能, 围护结构, 立面原型 (ARCH20004).",
+    "notes": "Course-listed reference for building performance, building envelope, facade prototyping (ARCH20004).",
     "url": "https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6",
     "courses": [
       "ARCH20004"
@@ -2181,7 +2511,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "未来围护结构第二卷：建筑、气候与表皮",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "环境设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括建筑性能、围护结构、立面原型（ARCH20004）。"
   },
   {
     "title": "Understanding Architecture: A Primer on Architecture as Experience",
@@ -2192,7 +2528,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 先例分析, 空间体验 (ARCH20004).",
+    "notes": "Course-listed reference for precedent analysis, spatial experience (ARCH20004).",
     "url": "https://elib.lasalle.edu.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=68598&SETLVL=",
     "courses": [
       "ARCH20004"
@@ -2221,7 +2557,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "理解建筑：将建筑作为体验的入门读本",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑设计",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括先例分析、空间体验（ARCH20004）。"
   },
   {
     "title": "Visual Communication Design: An Introduction to Design Concepts in Everyday Experience",
@@ -2232,7 +2574,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 视觉传达 (ARCH20004).",
+    "notes": "Course-listed reference for visual communication (ARCH20004).",
     "url": "https://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=6513539",
     "courses": [
       "ARCH20004"
@@ -2260,7 +2602,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "视觉传达设计：日常体验中的设计概念导论",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑表达",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括视觉传达（ARCH20004）。"
   },
   {
     "title": "Visualizing Complexity: Modular Information Design Handbook",
@@ -2271,7 +2619,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 信息设计, 数据可视化 (ARCH20004).",
+    "notes": "Course-listed reference for information design, data visualisation (ARCH20004).",
     "url": "https://www.degruyterbrill.com/document/doi/10.1515/9783035625066/html",
     "courses": [
       "ARCH20004"
@@ -2300,7 +2648,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "复杂性的可视化：模块化信息设计手册",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "建筑表达",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括信息设计、数据可视化（ARCH20004）。"
   },
   {
     "title": "Workflows: Expanding Architecture’s Territory in the Design and Delivery of Buildings",
@@ -2311,7 +2665,7 @@
     "priority": 3,
     "status": "Not started",
     "type": "Book",
-    "notes": "Course-listed reference for 数字设计流程, 设计协作 (ARCH20004).",
+    "notes": "Course-listed reference for digital design workflows, design collaboration (ARCH20004).",
     "url": "https://www.wiley.com/en-us/workflows-expanding-architecture%27s-territory-in-the-design-and-delivery-of-buildings-p-9781119317845",
     "courses": [
       "ARCH20004"
@@ -2344,7 +2698,13 @@
           }
         ]
       }
-    ]
+    ],
+    "title_zh": "工作流程：拓展建筑设计与交付的领域",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "数字设计与制造",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "课程列出的参考书，主题包括数字设计流程、设计协作（ARCH20004）。"
   },
   {
     "title": "Dark Emu",
@@ -2399,6 +2759,12 @@
         ],
         "url": "https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662"
       }
-    ]
+    ],
+    "title_zh": "黑暗鸸鹋",
+    "title_zh_kind": "参考译名 / Reference translation",
+    "category_zh": "历史与先例",
+    "list_zh": "补充书单",
+    "status_zh": "未开始",
+    "notes_zh": "ABPL10007列出了本书的“建造与设计”章节。"
   }
 ]

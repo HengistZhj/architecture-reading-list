@@ -1,0 +1,29 @@
+{
+  "categories": {
+    "Architectural Design": "建筑设计",
+    "Representation": "建筑表达",
+    "Site / Landscape": "场地与景观",
+    "Standards / Planning Data": "标准与规划数据",
+    "Model Making / Studio Craft": "模型制作与工作室技法",
+    "Diagrams": "图解",
+    "History / Precedent": "历史与先例",
+    "Critical Mapping": "批判性制图",
+    "Environmental Design": "环境设计",
+    "Theory / Behaviour": "理论与行为",
+    "Detail / Construction": "细部与构造",
+    "Site / Public Space": "场地与公共空间",
+    "Space / Behaviour": "空间与行为",
+    "Section / Representation": "剖面与表达",
+    "Digital Design / Fabrication": "数字设计与制造"
+  },
+  "statuses": {
+    "Not started": "未开始",
+    "Reading": "阅读中",
+    "Finished": "已读完",
+    "Reference": "备查"
+  },
+  "lists": {
+    "Primary": "主书单",
+    "Supplementary": "补充书单"
+  }
+}

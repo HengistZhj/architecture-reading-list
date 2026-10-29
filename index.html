@@ -1,91 +1,70 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Architecture Reading List</title>
+  <title>建筑书单 / Architecture Reading List</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
     <div>
-      <p class="eyebrow">ARCHITECTURE KNOWLEDGE BASE</p>
-      <h1>Reading List</h1>
-      <p class="intro">A living reading archive for architecture, representation, site analysis, theory and technology.</p>
+      <p class="eyebrow">建筑知识库 / ARCHITECTURE KNOWLEDGE BASE</p>
+      <h1>建筑书单<span class="en" lang="en">Reading List</span></h1>
+      <p class="intro">持续积累建筑、表达、场地分析、理论与技术的阅读资料。<span class="en" lang="en">A living reading archive for architecture, representation, site analysis, theory and technology.</span></p>
+      <p class="translation-note">中文书名为便于检索的参考译名，不代表特定中文版。<br><span lang="en">Chinese titles are reference translations, not claims about published Chinese editions.</span></p>
     </div>
   </header>
-
   <main>
-    <section class="controls">
-      <input id="search" type="search" placeholder="Search title, author or topic…">
-      <select id="category"><option value="">All categories</option></select>
-      <select id="listType">
-        <option value="">Primary + Supplementary</option>
-        <option>Primary</option>
-        <option>Supplementary</option>
-      </select>
-      <select id="status">
-        <option value="">All statuses</option>
-        <option>Not started</option>
-        <option>Reading</option>
-        <option>Finished</option>
-        <option>Reference</option>
-      </select>
+    <section class="controls" aria-label="搜索与筛选 / Search and filters">
+      <label for="search">搜索 / Search<input id="search" type="search" placeholder="书名、作者、主题 / Title, author, topic"></label>
+      <label for="category">分类 / Category<select id="category"><option value="">全部分类 / All categories</option></select></label>
+      <label for="listType">书单 / List<select id="listType"><option value="">全部书单 / All lists</option><option value="Primary">主书单 / Primary</option><option value="Supplementary">补充书单 / Supplementary</option></select></label>
+      <label for="status">阅读状态 / Reading status<select id="status"><option value="">全部状态 / All statuses</option><option value="Not started">未开始 / Not started</option><option value="Reading">阅读中 / Reading</option><option value="Finished">已读完 / Finished</option><option value="Reference">备查 / Reference</option></select></label>
     </section>
-
-    <div class="meta"><span id="count"></span></div>
-    <section id="books" class="grid"></section>
+    <div class="meta"><span id="count" role="status" aria-live="polite">正在加载 / Loading…</span></div>
+    <section id="books" class="grid" aria-label="书籍 / Books"></section>
   </main>
-
 <script>
 let allBooks = [];
-
-function stars(n){ return "★".repeat(n) + "☆".repeat(5-n); }
+let labels = {categories: {}, statuses: {}, lists: {}};
+const $ = selector => document.querySelector(selector);
+const escapeHTML = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const bilingual = (zh, en) => zh ? `${zh} / ${en}` : en;
+const stars = n => "★".repeat(n) + "☆".repeat(5-n);
 
 function render(){
-  const q = document.querySelector("#search").value.toLowerCase();
-  const cat = document.querySelector("#category").value;
-  const list = document.querySelector("#listType").value;
-  const status = document.querySelector("#status").value;
-
+  const q = $("#search").value.trim().toLocaleLowerCase();
+  const cat = $("#category").value;
+  const list = $("#listType").value;
+  const status = $("#status").value;
   const filtered = allBooks.filter(b =>
-    (!q || [b.title,b.authors,b.category,b.notes].join(" ").toLowerCase().includes(q)) &&
-    (!cat || b.category === cat) &&
-    (!list || b.list === list) &&
-    (!status || b.status === status)
+    (!q || [b.title,b.title_zh,b.authors,b.category,b.category_zh,b.notes,b.notes_zh,...(b.topics || []),...(b.courses || [])].join(" ").toLocaleLowerCase().includes(q)) &&
+    (!cat || b.category === cat) && (!list || b.list === list) && (!status || b.status === status)
   );
-
-  document.querySelector("#count").textContent = `${filtered.length} item${filtered.length === 1 ? "" : "s"}`;
-  document.querySelector("#books").innerHTML = filtered.map(b => `
-    <article class="card">
-      <div class="tags">
-        <span>${b.category}</span>
-        <span>${b.list}</span>
-      </div>
-      <h2>${b.title}</h2>
-      <p class="author">${b.authors} · ${b.year}</p>
-      <p class="notes">${b.notes || ""}</p>
-      <div class="bottom">
-        <span class="priority" title="Priority">${stars(b.priority)}</span>
-        <span class="status">${b.status}</span>
-      </div>
-      ${b.url ? `<a class="link" href="${b.url}" target="_blank" rel="noopener">Library / source ↗</a>` : ""}
-    </article>
-  `).join("");
+  $("#count").textContent = `共 ${filtered.length} 本 / ${filtered.length} book${filtered.length === 1 ? "" : "s"}`;
+  $("#books").innerHTML = filtered.length ? filtered.map(b => {
+    const url = /^https?:\/\//i.test(b.url || "") ? b.url : "";
+    return `<article class="card">
+      <div class="tags"><span>${escapeHTML(bilingual(b.category_zh,b.category))}</span><span>${escapeHTML(bilingual(b.list_zh,b.list))}</span></div>
+      <h2>${escapeHTML(b.title_zh || b.title)}<span class="book-title-en" lang="en">${escapeHTML(b.title)}</span></h2>
+      <p class="author">${escapeHTML(b.authors || "作者待补 / Author not listed")} · ${escapeHTML(b.year || "年份待补 / Year not listed")}</p>
+      <p class="notes"><span lang="zh-CN">${escapeHTML(b.notes_zh || "")}</span><span class="en" lang="en">${escapeHTML(b.notes || "")}</span></p>
+      <div class="bottom"><span class="priority" title="优先级 / Priority: ${b.priority}/5" aria-label="优先级 / Priority: ${b.priority}/5">${stars(b.priority)}</span><span class="status">${escapeHTML(bilingual(b.status_zh,b.status))}</span></div>
+      ${url ? `<a class="link" href="${escapeHTML(url)}" target="_blank" rel="noopener noreferrer">图书馆／来源 / Library / source ↗</a>` : ""}
+    </article>`;
+  }).join("") : '<p class="empty">没有匹配的书籍，请换个关键词。<br><span lang="en">No matching books. Try another keyword.</span></p>';
 }
 
-fetch("books.json")
-  .then(r => r.json())
-  .then(data => {
+Promise.all([fetch("books.json",{cache:"no-cache"}).then(r => {if(!r.ok) throw Error("books");return r.json();}),fetch("labels.json").then(r => {if(!r.ok) throw Error("labels");return r.json();})])
+  .then(([data, translations]) => {
     allBooks = data;
-    const cats = [...new Set(data.map(b => b.category))].sort();
-    document.querySelector("#category").innerHTML += cats.map(c => `<option>${c}</option>`).join("");
+    labels = translations;
+    const categories = [...new Set(data.map(b => b.category))].sort();
+    categories.forEach(category => {const option = document.createElement("option"); option.value=category;option.textContent=bilingual(labels.categories[category],category);$("#category").append(option);});
     render();
-  });
-
-["search","category","listType","status"].forEach(id =>
-  document.querySelector(`#${id}`).addEventListener("input", render)
-);
+  }).catch(() => {$("#count").textContent="加载失败，请刷新重试。 / Could not load the list. Please refresh.";});
+["search","category","listType","status"].forEach(id => document.getElementById(id).addEventListener("input",render));
 </script>
 </body>
 </html>

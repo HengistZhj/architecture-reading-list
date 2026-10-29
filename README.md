@@ -1,33 +1,36 @@
-# Architecture Reading List
+# 建筑书单 / Architecture Reading List
 
-A simple static reading-list website designed for GitHub Pages.
+[打开书单网页 / Open the reading list](https://hengistzhj.github.io/architecture-reading-list/)
 
-## Publish with GitHub Pages
+面向手机与电脑的中英双语建筑阅读档案，包含61本书，可按书名、作者、主题、分类和阅读状态搜索筛选。
+A bilingual architecture reading archive with 61 books, searchable by title, author and topic, with category and reading-status filters.
 
-1. Create a GitHub repository, e.g. `architecture-reading-list`.
-2. Upload all files in this folder to the repository root.
-3. Commit the files to the `main` branch.
-4. Open repository **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select **main** and **/(root)**, then Save.
-7. GitHub will provide the public Pages URL after deployment.
+## 语言约定 / Language conventions
 
-## Updating
+中文和英文同时显示；英文保留原书名，中文为便于检索的参考译名，不代表特定中文版或正式出版译名。
+Chinese and English appear together; English titles retain their original wording, while Chinese titles are reference translations rather than claims about published Chinese editions.
 
-The reading data lives in `books.json`.
-Ask Codex to add/edit readings there. The site reads the JSON automatically.
+分类、书单类型和状态的英文数据值保留，另加中文显示字段；原有阅读状态、优先级和课程来源不变。
+Canonical English category, list and status values are retained alongside Chinese display fields; reading progress, priorities and course sources are preserved.
 
-Example:
-> Add "Complexity and Contradiction in Architecture" by Robert Venturi to books.json under Architectural Theory. Mark it Supplementary, priority 4, status Not started. Do not redesign the site.
+## 更新资料 / Update readings
 
-See `AGENTS.md` for maintenance rules.
+阅读数据保存在`books.json`，网站自动读取；修改条目时同时维护`title`/`title_zh`与`notes`/`notes_zh`。
+The site loads `books.json`; maintain both `title`/`title_zh` and `notes`/`notes_zh` when editing an entry.
 
-## Course cross-references
+缺失作者或年份保持空值，页面显示“待补”；链接失效不影响收录，不要求逐个验证。
+Leave unknown authors or years empty; the page shows a missing-data label, and unavailable links do not prevent inclusion or require individual verification.
 
-[课程知识库中的重合书籍与章节](COURSE-READING-OVERLAPS.md)
+## 课程资料 / Course resources
 
-Matching entries in `books.json` include course references, topics, related chapters and additional source links; existing reading status, priority and category are preserved.
+- [重合书籍与章节 / Overlapping books and chapters](COURSE-READING-OVERLAPS.md)
+- [新增28本课程书籍 / 28 additional course books](COURSE-READING-ADDITIONS.md)
+- [维护规则 / Maintenance rules](AGENTS.md)
 
-## Additional course books
+## GitHub Pages 发布 / GitHub Pages publishing
 
-[从课程知识库新增的28本书](COURSE-READING-ADDITIONS.md)；书单现在共61本，新增条目默认 Supplementary、priority 3、Not started。
+仓库 Settings → Pages → Deploy from a branch，选择 main 和 /(root)，保存。
+In repository Settings → Pages → Deploy from a branch, choose main and /(root), then save.
+
+提交后页面可能需等待部署和浏览器缓存更新；可刷新查看。
+After a commit, allow time for deployment and browser caches to update, then refresh.

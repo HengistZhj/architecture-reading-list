@@ -1,62 +1,61 @@
-# 从课程知识库新增的书籍
+# 新增课程书籍 / Additional course books
 
-2026-10-30：新增 28 本，书单从 33 本增至 61 本；原有条目保持。
-新增项默认 Supplementary、优先级 3、Not started；这是整理默认值，不代表教师指定必读等级。
-只收录名称、已有书目信息与原链接，不逐条验证链接可达；未知作者或年份留空。
+新增28本，书单共61本。 / 28 books added, bringing the total to 61.
+默认：补充书单、优先级3、未开始；不代表教师必读等级。 / Defaults: Supplementary, priority 3, Not started; these are not claims about required course reading.
 
-- **Architectural Geometry** — Helmut Pottmann, et al. · 2007 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
-- **Architectural Modelmaking** — Nick Dunn · 2014 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1>)
-- **Building Performance Analysis** — Pieter de Wilde · 2018 · ARCH20004
-  - [原链接](<https://www.wiley.com/en-gb/building-performance-analysis-p-9781119341901>)
-- **Case Studies in Parametric Design: A Guide to Visual Scripting in Architecture** — J. Collins · 2024 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5>)
-- **Conditional Design: An Introduction to Elemental Architecture** — Anthony Di Mari · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
-- **Design Elements: Understanding the Rules and Knowing When to Break Them** — Timothy Samara · 2014 · ARCH20004
-  - [原链接](<https://learning.oreilly.com/library/view/design-elements-2nd/9781592539277/>)
-- **Design Process in Architecture: From Concept to Completion** — Geoffrey Makstutis · 2018 · ARCH20004
-  - [原链接](<https://us.laurenceking.com/products/design-process-in-architecture>)
-- **Designing with Models: A Studio Guide to Making and Using Architectural Design Models** — Criss B. Mills · 2010 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9>)
-- **Diagramming the Big Idea: Methods for Architectural Composition** — Jeffrey Balmer, Michael T. Swisher · 2012 · ARCH20004
-  - [原链接](<https://www.routledge.com/Diagramming-the-Big-Idea-Methods-for-Architectural-Composition/Balmer-Swisher/p/book/9781032937601>)
-- **Digital Fabrication in Architecture** — Nick Dunn · 2012 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1>)
-- **Digital Fabrications: Architectural and Material Techniques** — Lisa Iwamoto · 2009 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10>)
-- **Digital Workflows in Architecture: Designing Design – Designing Assembly – Designing Industry** — Scott Marble (editor) · 2012 · ARCH20004
-  - [原链接](<https://www.cca.qc.ca/en/search/details/library/publication/819721735>)
-- **Drawing Futures** — 作者未列 · ARCH20004
-  - [原链接](<https://web2.mlp.cz/koweb/00/04/36/32/61/drawing_futures.pdf>)
-- **Folds, Bodies & Blobs** — Greg Lynn · ARCH20004
-  - [原链接](<https://www.amazon.com.au/Folds-Bodies-Blobs-Books-architects/dp/2873170689>)
-- **From Control to Design: Parametric/Algorithmic Architecture** — T. Sakamoto, et al. · 2008 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9>)
-- **Operative Design: A Catalog of Spatial Verbs** — Anthony Di Mari, Nora Yoo · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
-- **Precedents in Architecture: Analytic Diagrams, Formative Ideas, and Partis** — Roger H. Clark, Michael Pause · 2012 · ARCH20004
-  - [原链接](<https://www.wiley.com/en-us/precedents-in-architecture-analytic-diagrams-formative-ideas-and-partis-4th-edition-p-9781118170847>)
-- **Prototyping for Architects** — Jane Burry, Mark Burry · 2016 · ARCH20004
-  - [原链接](<https://www.thamesandhudson.com/products/prototyping-for-architects>)
-- **Rooms and Corridors: A Plan for Tending and Untending** — 作者未列 · ARCH20004
-  - [原链接](<https://www.perimeterbooks.com/products/rooms-and-corridors-a-plan-for-tending-and-untending>)
-- **Structural Design for Architecture** — Angus J. Macdonald · 1997 · ARCH20004
-  - [原链接](<https://angusjmacdonaldstructure.uk/publications/>)
-- **The Diagrams of Architecture: AD Reader** — Mark Garcia (editor) · 2010 · ARCH20004
-  - [原链接](<https://www.wiley.com/en-us/The+Diagrams+of+Architecture%3A+AD+Reader-p-9780470519455>)
-- **The Form of Knowledge: The Prototype of Architectural Thinking and Its Application** — Ryuji Fujimura · 2018 · ARCH20004
-  - [原链接](<https://info.jp.toto.com/gallerma/ex180731/sympsm_e.htm>)
-- **The Future Envelope 2: Architecture – Climate – Skin** — Ulrich Knaack, Tillmann Klein · 2010 · ARCH20004
-  - [原链接](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6>)
-- **Understanding Architecture: A Primer on Architecture as Experience** — Robert McCarter, Juhani Pallasmaa · 2012 · ARCH20004
-  - [原链接](<https://elib.lasalle.edu.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=68598&SETLVL=>)
-- **Visual Communication Design: An Introduction to Design Concepts in Everyday Experience** — Meredith Davis, Jamer Hunt · 2017 · ARCH20004
-  - [原链接](<https://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=6513539>)
-- **Visualizing Complexity: Modular Information Design Handbook** — Darjan Hil, Nicole Lachenmeier · 2022 · ARCH20004
-  - [原链接](<https://www.degruyterbrill.com/document/doi/10.1515/9783035625066/html>)
-- **Workflows: Expanding Architecture’s Territory in the Design and Delivery of Buildings** — Richard Garber (guest editor) · 2017 · ARCH20004
-  - [原链接](<https://www.wiley.com/en-us/workflows-expanding-architecture%27s-territory-in-the-design-and-delivery-of-buildings-p-9781119317845>)
-- **Dark Emu** — Bruce Pascoe · 2014 · ABPL10007
-  - [原链接](<https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662>)
+- **建筑几何学 / Architectural Geometry** — Helmut Pottmann, et al. · 2007 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
+- **建筑模型制作 / Architectural Modelmaking** — Nick Dunn · 2014 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1>)
+- **建筑性能分析 / Building Performance Analysis** — Pieter de Wilde · 2018 · ARCH20004
+  - [原链接 / Original link](<https://www.wiley.com/en-gb/building-performance-analysis-p-9781119341901>)
+- **参数化设计案例：建筑可视化脚本指南 / Case Studies in Parametric Design: A Guide to Visual Scripting in Architecture** — J. Collins · 2024 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-5>)
+- **条件式设计：基本建筑形式导论 / Conditional Design: An Introduction to Elemental Architecture** — Anthony Di Mari · 年份待补 / Year not listed · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
+- **设计元素：理解规则与打破规则的时机 / Design Elements: Understanding the Rules and Knowing When to Break Them** — Timothy Samara · 2014 · ARCH20004
+  - [原链接 / Original link](<https://learning.oreilly.com/library/view/design-elements-2nd/9781592539277/>)
+- **建筑设计流程：从概念到完成 / Design Process in Architecture: From Concept to Completion** — Geoffrey Makstutis · 2018 · ARCH20004
+  - [原链接 / Original link](<https://us.laurenceking.com/products/design-process-in-architecture>)
+- **以模型进行设计：建筑设计模型制作与应用指南 / Designing with Models: A Studio Guide to Making and Using Architectural Design Models** — Criss B. Mills · 2010 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9>)
+- **图解核心构思：建筑构图的方法 / Diagramming the Big Idea: Methods for Architectural Composition** — Jeffrey Balmer, Michael T. Swisher · 2012 · ARCH20004
+  - [原链接 / Original link](<https://www.routledge.com/Diagramming-the-Big-Idea-Methods-for-Architectural-Composition/Balmer-Swisher/p/book/9781032937601>)
+- **建筑中的数字制造 / Digital Fabrication in Architecture** — Nick Dunn · 2012 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-1>)
+- **数字建造：建筑与材料技术 / Digital Fabrications: Architectural and Material Techniques** — Lisa Iwamoto · 2009 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-10>)
+- **建筑中的数字工作流程：设计、装配与产业 / Digital Workflows in Architecture: Designing Design – Designing Assembly – Designing Industry** — Scott Marble (editor) · 2012 · ARCH20004
+  - [原链接 / Original link](<https://www.cca.qc.ca/en/search/details/library/publication/819721735>)
+- **绘图的未来 / Drawing Futures** — 作者待补 / Author not listed · 年份待补 / Year not listed · ARCH20004
+  - [原链接 / Original link](<https://web2.mlp.cz/koweb/00/04/36/32/61/drawing_futures.pdf>)
+- **折叠、身体与团块 / Folds, Bodies & Blobs** — Greg Lynn · 年份待补 / Year not listed · ARCH20004
+  - [原链接 / Original link](<https://www.amazon.com.au/Folds-Bodies-Blobs-Books-architects/dp/2873170689>)
+- **从控制到设计：参数化与算法建筑 / From Control to Design: Parametric/Algorithmic Architecture** — T. Sakamoto, et al. · 2008 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-9>)
+- **操作性设计：空间动词目录 / Operative Design: A Catalog of Spatial Verbs** — Anthony Di Mari, Nora Yoo · 年份待补 / Year not listed · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-2>)
+- **建筑先例：分析图解、形成性构思与基本构型 / Precedents in Architecture: Analytic Diagrams, Formative Ideas, and Partis** — Roger H. Clark, Michael Pause · 2012 · ARCH20004
+  - [原链接 / Original link](<https://www.wiley.com/en-us/precedents-in-architecture-analytic-diagrams-formative-ideas-and-partis-4th-edition-p-9781118170847>)
+- **建筑师的原型制作 / Prototyping for Architects** — Jane Burry, Mark Burry · 2016 · ARCH20004
+  - [原链接 / Original link](<https://www.thamesandhudson.com/products/prototyping-for-architects>)
+- **房间与走廊：照料与不照料的平面方案 / Rooms and Corridors: A Plan for Tending and Untending** — 作者待补 / Author not listed · 年份待补 / Year not listed · ARCH20004
+  - [原链接 / Original link](<https://www.perimeterbooks.com/products/rooms-and-corridors-a-plan-for-tending-and-untending>)
+- **建筑结构设计 / Structural Design for Architecture** — Angus J. Macdonald · 1997 · ARCH20004
+  - [原链接 / Original link](<https://angusjmacdonaldstructure.uk/publications/>)
+- **建筑图解：AD读本 / The Diagrams of Architecture: AD Reader** — Mark Garcia (editor) · 2010 · ARCH20004
+  - [原链接 / Original link](<https://www.wiley.com/en-us/The+Diagrams+of+Architecture%3A+AD+Reader-p-9780470519455>)
+- **知识的形式：建筑思维的原型及其应用 / The Form of Knowledge: The Prototype of Architectural Thinking and Its Application** — Ryuji Fujimura · 2018 · ARCH20004
+  - [原链接 / Original link](<https://info.jp.toto.com/gallerma/ex180731/sympsm_e.htm>)
+- **未来围护结构第二卷：建筑、气候与表皮 / The Future Envelope 2: Architecture – Climate – Skin** — Ulrich Knaack, Tillmann Klein · 2010 · ARCH20004
+  - [原链接 / Original link](<https://canvas.lms.unimelb.edu.au/courses/238820/pages/week-6>)
+- **理解建筑：将建筑作为体验的入门读本 / Understanding Architecture: A Primer on Architecture as Experience** — Robert McCarter, Juhani Pallasmaa · 2012 · ARCH20004
+  - [原链接 / Original link](<https://elib.lasalle.edu.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?BRN=68598&SETLVL=>)
+- **视觉传达设计：日常体验中的设计概念导论 / Visual Communication Design: An Introduction to Design Concepts in Everyday Experience** — Meredith Davis, Jamer Hunt · 2017 · ARCH20004
+  - [原链接 / Original link](<https://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=6513539>)
+- **复杂性的可视化：模块化信息设计手册 / Visualizing Complexity: Modular Information Design Handbook** — Darjan Hil, Nicole Lachenmeier · 2022 · ARCH20004
+  - [原链接 / Original link](<https://www.degruyterbrill.com/document/doi/10.1515/9783035625066/html>)
+- **工作流程：拓展建筑设计与交付的领域 / Workflows: Expanding Architecture’s Territory in the Design and Delivery of Buildings** — Richard Garber (guest editor) · 2017 · ARCH20004
+  - [原链接 / Original link](<https://www.wiley.com/en-us/workflows-expanding-architecture%27s-territory-in-the-design-and-delivery-of-buildings-p-9781119317845>)
+- **黑暗鸸鹋 / Dark Emu** — Bruce Pascoe · 2014 · ABPL10007
+  - [原链接 / Original link](<https://librarysearch.unimelb.edu.au/permalink/61UMB_INST/fek3uc/cdi_askewsholts_vlebooks_9781925548662>)
