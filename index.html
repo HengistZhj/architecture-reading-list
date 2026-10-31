@@ -12,7 +12,7 @@
       <p class="eyebrow">建筑知识库 / ARCHITECTURE KNOWLEDGE BASE</p>
       <h1>建筑书单<span class="en" lang="en">Reading List</span></h1>
       <p class="intro">持续积累建筑、表达、场地分析、理论与技术的阅读资料。<span class="en" lang="en">A living reading archive for architecture, representation, site analysis, theory and technology.</span></p>
-      <p class="translation-note">中文书名为便于检索的参考译名，不代表特定中文版。<br><span lang="en">Chinese titles are reference translations, not claims about published Chinese editions.</span></p>
+      <p class="translation-note">书名默认显示英文原名；可在筛选栏切换为中文参考译名。<br><span lang="en">Book titles use the original English by default; switch to Chinese reference translations in the filters.</span></p>
     </div>
   </header>
   <main>
@@ -21,6 +21,7 @@
       <label for="category">分类 / Category<select id="category"><option value="">全部分类 / All categories</option></select></label>
       <label for="listType">书单 / List<select id="listType"><option value="">全部书单 / All lists</option><option value="Primary">主书单 / Primary</option><option value="Supplementary">补充书单 / Supplementary</option></select></label>
       <label for="status">阅读状态 / Reading status<select id="status"><option value="">全部状态 / All statuses</option><option value="Not started">未开始 / Not started</option><option value="Reading">阅读中 / Reading</option><option value="Finished">已读完 / Finished</option><option value="Reference">备查 / Reference</option></select></label>
+      <label for="titleLanguage">书名语言 / Title language<select id="titleLanguage"><option value="en">English</option><option value="zh">中文</option></select></label>
     </section>
     <div class="meta"><span id="count" role="status" aria-live="polite">正在加载 / Loading…</span></div>
     <section id="books" class="grid" aria-label="书籍 / Books"></section>
@@ -38,6 +39,7 @@ function render(){
   const cat = $("#category").value;
   const list = $("#listType").value;
   const status = $("#status").value;
+  const titleLanguage = $("#titleLanguage").value;
   const filtered = allBooks.filter(b =>
     (!q || [b.title,b.title_zh,b.authors,b.category,b.category_zh,b.notes,b.notes_zh,...(b.topics || []),...(b.courses || [])].join(" ").toLocaleLowerCase().includes(q)) &&
     (!cat || b.category === cat) && (!list || b.list === list) && (!status || b.status === status)
@@ -47,7 +49,7 @@ function render(){
     const url = /^https?:\/\//i.test(b.url || "") ? b.url : "";
     return `<article class="card">
       <div class="tags"><span>${escapeHTML(bilingual(b.category_zh,b.category))}</span><span>${escapeHTML(bilingual(b.list_zh,b.list))}</span></div>
-      <h2>${escapeHTML(b.title_zh || b.title)}<span class="book-title-en" lang="en">${escapeHTML(b.title)}</span></h2>
+      <h2 lang="${titleLanguage === "zh" ? "zh-CN" : "en"}">${escapeHTML(titleLanguage === "zh" ? (b.title_zh || b.title) : b.title)}</h2>
       <p class="author">${escapeHTML(b.authors || "作者待补 / Author not listed")} · ${escapeHTML(b.year || "年份待补 / Year not listed")}</p>
       <p class="notes"><span lang="zh-CN">${escapeHTML(b.notes_zh || "")}</span><span class="en" lang="en">${escapeHTML(b.notes || "")}</span></p>
       <div class="bottom"><span class="priority" title="优先级 / Priority: ${b.priority}/5" aria-label="优先级 / Priority: ${b.priority}/5">${stars(b.priority)}</span><span class="status">${escapeHTML(bilingual(b.status_zh,b.status))}</span></div>
@@ -64,7 +66,7 @@ Promise.all([fetch("books.json",{cache:"no-cache"}).then(r => {if(!r.ok) throw E
     categories.forEach(category => {const option = document.createElement("option"); option.value=category;option.textContent=bilingual(labels.categories[category],category);$("#category").append(option);});
     render();
   }).catch(() => {$("#count").textContent="加载失败，请刷新重试。 / Could not load the list. Please refresh.";});
-["search","category","listType","status"].forEach(id => document.getElementById(id).addEventListener("input",render));
+["search","category","listType","status","titleLanguage"].forEach(id => document.getElementById(id).addEventListener("input",render));
 </script>
 </body>
 </html>
